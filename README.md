@@ -22,7 +22,7 @@ $ deploy done
 
 
 The easiest way to deploy this Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Esumo253/tune.git/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Esumo253/tune.git)
  
 ## CREDITS
 
